@@ -1,0 +1,5 @@
+C:\PROYECTOS .NET\.NET CORE\COWORKING\coworkingApp\coworking.Api.DataAccess.Contracts\bin\Debug\netcoreapp2.1\coworking.Api.DataAccess.Contracts.deps.json
+C:\PROYECTOS .NET\.NET CORE\COWORKING\coworkingApp\coworking.Api.DataAccess.Contracts\bin\Debug\netcoreapp2.1\coworking.Api.DataAccess.Contracts.dll
+C:\PROYECTOS .NET\.NET CORE\COWORKING\coworkingApp\coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\coworking.Api.DataAccess.Contracts.csproj.CoreCompileInputs.cache
+C:\PROYECTOS .NET\.NET CORE\COWORKING\coworkingApp\coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\coworking.Api.DataAccess.Contracts.AssemblyInfoInputs.cache
+C:\PROYECTOS .NET\.NET CORE\COWORKING\coworkingApp\coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp2.1\coworking.Api.DataAccess.Contracts.AssemblyInfo.cs

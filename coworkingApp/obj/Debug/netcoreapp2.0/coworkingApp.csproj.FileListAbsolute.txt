@@ -1,0 +1,3 @@
+C:\PROYECTOS .NET\.NET CORE\COWORKING\coworkingApp\coworkingApp\obj\Debug\netcoreapp2.0\coworkingApp.csproj.CoreCompileInputs.cache
+C:\PROYECTOS .NET\.NET CORE\COWORKING\coworkingApp\coworkingApp\obj\Debug\netcoreapp2.0\coworkingApp.AssemblyInfoInputs.cache
+C:\PROYECTOS .NET\.NET CORE\COWORKING\coworkingApp\coworkingApp\obj\Debug\netcoreapp2.0\coworkingApp.AssemblyInfo.cs
